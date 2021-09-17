@@ -1,5 +1,5 @@
 # Brightness
 For blackarch linux user
 
-#Requirements
+# Requirements
 use python 3.x
